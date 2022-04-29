@@ -1,4 +1,4 @@
 - name: ansible create directory example
   file:
-    path: /home/new_dir
+    path: /home/new_dir/direktorijum
     state: directory
